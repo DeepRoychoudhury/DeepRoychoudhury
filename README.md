@@ -5,7 +5,6 @@ TDD, Github, Sonar, Jenkins, Service Now, C++, C, and Selenium Webdriver.
 - 🌱 Recently completed my Master's degree in Cloud Computing, which has provided me an opportunity to learn new cloud technologies. I specialize in 
 cloud application development (Software-as-a-Service) and have worked on course projects with various CSP's (AWS, Azure, Heroku). In addition to this, 
 I have gained some hands-on experience with dockers and containers. I am currenlty learning to be efficient in Data Structure and Algorithms
-- 💞️ I’m currently looking for a software development opportunity.
 - 📫 How to reach me - https://www.linkedin.com/in/deeproychoudhury/  ||   deeproydrc@gmail.com
 
 <!---
